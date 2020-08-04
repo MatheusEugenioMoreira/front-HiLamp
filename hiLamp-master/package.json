@@ -1,0 +1,17 @@
+{
+  "name": "hilamp",
+  "version": "1.0.0",
+  "description": "Controlador virtual de iluminação predial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Richard Trapp",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2",
+    "requestify": "^0.2.5"
+  }
+}
